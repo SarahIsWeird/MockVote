@@ -1,0 +1,7 @@
+name: MockVote
+main: com.sarahisweird.mockvote.MockVote
+version: 1.0
+commands:
+  vote:
+    permission: mockvote.vote
+    description: Vote for this server

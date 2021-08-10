@@ -1,0 +1,6 @@
+cooldown: 300
+messages:
+  onCooldown: "You can use this command again in $remaining seconds."
+  success: "You've successfully voted for this server!"
+commands:
+  - "give $player minecraft:oak_boat 1"
